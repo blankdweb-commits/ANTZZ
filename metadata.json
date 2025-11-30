@@ -1,0 +1,7 @@
+{
+  "name": "Townhall",
+  "description": "A digital public square for anonymous truth. Digital brutalism aesthetics with ephemeral identities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
